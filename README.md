@@ -8,7 +8,6 @@ I've used Firebase as Database so you need to login with an email and NOT with j
 
 Complete the fields with lenio@lenioapp.com - lenio to have correct access
 Any other user is rejected by the application
-You have to fill in the email form and at least 3 chars for password
 
 On login successfull the app will set a TOKEN encrypted (you will see the response).
 
