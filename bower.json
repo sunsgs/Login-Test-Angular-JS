@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "Lenio Test",
+  "description": "Test Login in angular js",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "http://www.gianlucasuarato.it/test/index.html",
   "license": "MIT",
   "private": true,
   "dependencies": {
